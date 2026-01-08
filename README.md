@@ -20,4 +20,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/AniketGhotale/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
