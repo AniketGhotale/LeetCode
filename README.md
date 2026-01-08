@@ -8,6 +8,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0001-two-sum](https://github.com/AniketGhotale/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0007-reverse-integer](https://github.com/AniketGhotale/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AniketGhotale/LeetCode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
