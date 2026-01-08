@@ -1,16 +1,2 @@
-# LeetCode
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/AniketGhotale/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/AniketGhotale/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/AniketGhotale/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
-<!---LeetCode Topics End-->
+This repository contains all the solutions I have implemented while practicing problems on **LeetCode**.
+The purpose of this repository is to improve my problem-solving skills, strengthen my understanding of data structures and algorithms, and track my learning progress over time.
