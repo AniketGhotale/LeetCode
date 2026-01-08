@@ -24,4 +24,5 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AniketGhotale/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AniketGhotale/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
