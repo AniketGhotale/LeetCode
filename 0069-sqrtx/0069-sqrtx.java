@@ -3,7 +3,6 @@ import java.util.*;
 
 class Solution {
     public int mySqrt(int x) {
-        double sqrt = Math.sqrt(x);
-        return (int)sqrt;
+        return (int)Math.sqrt(x);
     }
 }
