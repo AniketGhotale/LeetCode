@@ -28,6 +28,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0007-reverse-integer](https://github.com/AniketGhotale/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AniketGhotale/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,4 +43,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
