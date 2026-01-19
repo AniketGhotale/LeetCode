@@ -10,6 +10,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AniketGhotale/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/AniketGhotale/LeetCode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
