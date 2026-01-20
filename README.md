@@ -52,6 +52,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AniketGhotale/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/AniketGhotale/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
@@ -76,6 +78,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketGhotale/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
