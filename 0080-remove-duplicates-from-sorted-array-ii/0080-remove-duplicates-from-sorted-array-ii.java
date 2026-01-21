@@ -8,23 +8,7 @@ class Solution {
                 k++;
             }
         }
-        // int f = 0;
-        // int s = 1;
-        // int k=0;
-        // while(s < nums.length-1){
-        //     if(nums[f] == nums[s]){
-        //         nums[k] = nums[f];
-        //         nums[k++] = nums[s];
-        //         k++;
-        //         while(nums[f] == nums[s] && s < nums.length){
-        //             f++;
-        //             s++;
-        //         }
-        //     }else{
-        //         f++;
-        //         s++;
-        //     }
-        // }
+        
         return k;
     }
 }
