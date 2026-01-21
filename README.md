@@ -17,6 +17,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketGhotale/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -33,6 +34,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0035-search-insert-position](https://github.com/AniketGhotale/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AniketGhotale/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -54,6 +56,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AniketGhotale/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
