@@ -19,6 +19,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -105,4 +106,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
