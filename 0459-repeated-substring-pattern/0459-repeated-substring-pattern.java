@@ -1,23 +1,14 @@
 class Solution {
     public boolean repeatedSubstringPattern(String s) {
         int n = s.length();
-
-        // try all possible substring lengths
         for (int len = 1; len <= n / 2; len++) {
-
-            // length must divide total length
             if (n % len != 0) continue;
-
             String sub = s.substring(0, len);
             StringBuilder formed = new StringBuilder();
-
-            // repeat substring n/len times
             int times = n / len;
             for (int i = 0; i < times; i++) {
                 formed.append(sub);
             }
-
-            // compare
             if (formed.toString().equals(s)) {
                 return true;
             }
