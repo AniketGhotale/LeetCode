@@ -23,6 +23,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AniketGhotale/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -31,6 +32,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AniketGhotale/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -51,6 +53,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +80,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -129,4 +133,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
