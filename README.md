@@ -28,6 +28,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +52,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AniketGhotale/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -66,6 +69,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0069-sqrtx](https://github.com/AniketGhotale/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +89,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -140,4 +145,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
