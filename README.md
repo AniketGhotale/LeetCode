@@ -57,6 +57,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AniketGhotale/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AniketGhotale/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
