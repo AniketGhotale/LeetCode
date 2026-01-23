@@ -42,6 +42,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1108-defanging-an-ip-address](https://github.com/AniketGhotale/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3110-score-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3110-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
 |  |
 | ------- |
