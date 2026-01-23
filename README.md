@@ -35,6 +35,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketGhotale/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AniketGhotale/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -238,4 +239,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
