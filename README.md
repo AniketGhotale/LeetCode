@@ -34,6 +34,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketGhotale/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AniketGhotale/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
@@ -220,6 +221,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0020-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -263,4 +265,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
