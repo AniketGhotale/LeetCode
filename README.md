@@ -55,6 +55,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AniketGhotale/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AniketGhotale/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
@@ -81,6 +82,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AniketGhotale/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -120,6 +122,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
@@ -230,6 +233,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
