@@ -45,6 +45,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
