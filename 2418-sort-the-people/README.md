@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/?envType=problem-list-v2&envId=array">2502. Sort the People</a></h2><h3>Easy</h3><hr><p>You are given an array of strings <code>names</code>, and an array <code>heights</code> that consists of <strong>distinct</strong> positive integers. Both arrays are of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/sort-the-people">2502. Sort the People</a></h2><h3>Easy</h3><hr><p>You are given an array of strings <code>names</code>, and an array <code>heights</code> that consists of <strong>distinct</strong> positive integers. Both arrays are of length <code>n</code>.</p>
 
 <p>For each index <code>i</code>, <code>names[i]</code> and <code>heights[i]</code> denote the name and height of the <code>i<sup>th</sup></code> person.</p>
 
