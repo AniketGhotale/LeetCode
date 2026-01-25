@@ -61,6 +61,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AniketGhotale/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3248-snake-in-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AniketGhotale/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -191,6 +192,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AniketGhotale/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3248-snake-in-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
@@ -267,6 +269,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3248-snake-in-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Counting Sort
