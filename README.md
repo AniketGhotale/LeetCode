@@ -59,6 +59,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AniketGhotale/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AniketGhotale/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
