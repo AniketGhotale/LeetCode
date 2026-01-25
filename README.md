@@ -55,6 +55,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2678-number-of-senior-citizens](https://github.com/AniketGhotale/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AniketGhotale/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AniketGhotale/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -201,6 +202,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/AniketGhotale/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
