@@ -69,6 +69,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3668-restore-finishing-order](https://github.com/AniketGhotale/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/AniketGhotale/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/AniketGhotale/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
@@ -160,6 +162,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
