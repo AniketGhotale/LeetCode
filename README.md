@@ -78,6 +78,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AniketGhotale/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3151-special-array-i) |
@@ -129,6 +130,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AniketGhotale/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -320,6 +322,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
