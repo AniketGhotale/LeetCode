@@ -41,6 +41,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -218,6 +219,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1108-defanging-an-ip-address](https://github.com/AniketGhotale/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -280,6 +282,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Matrix
 |  |
 | ------- |
