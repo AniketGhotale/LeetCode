@@ -13,7 +13,7 @@ class Solution {
                 last--;
             }
         }
-        res[n] = last;
+        res[n] = first;
         // if(s.charAt(n-1) == 'I'){
         //     res[n-1] = first;
         //     res[n] = last;
