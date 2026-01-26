@@ -1,27 +1,22 @@
 class Solution {
     public int[] frequencySort(int[] nums) {
-
-        // 1. Count frequency
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        // 2. Convert nums to Integer array for sorting
         Integer[] arr = new Integer[nums.length];
         for (int i = 0; i < nums.length; i++) {
             arr[i] = nums[i];
         }
 
-        // 3. Sort based on frequency, then value (descending)
         Arrays.sort(arr, (a, b) -> {
             if (!map.get(a).equals(map.get(b))) {
-                return map.get(a) - map.get(b);   // increasing frequency
+                return map.get(a) - map.get(b); 
             }
-            return b - a;                          // decreasing value
+            return b - a;              
         });
 
-        // 4. Convert back to int[]
         for (int i = 0; i < nums.length; i++) {
             nums[i] = arr[i];
         }
