@@ -191,6 +191,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3516-find-closest-person](https://github.com/AniketGhotale/LeetCode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AniketGhotale/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/AniketGhotale/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
 | ------- |
