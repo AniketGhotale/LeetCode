@@ -174,6 +174,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2469-convert-the-temperature](https://github.com/AniketGhotale/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AniketGhotale/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AniketGhotale/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
