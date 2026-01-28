@@ -173,6 +173,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/AniketGhotale/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/AniketGhotale/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -205,6 +206,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/AniketGhotale/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -374,4 +376,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AniketGhotale/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
