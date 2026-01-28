@@ -195,6 +195,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AniketGhotale/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/AniketGhotale/LeetCode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AniketGhotale/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AniketGhotale/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AniketGhotale/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -396,4 +397,5 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AniketGhotale/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
