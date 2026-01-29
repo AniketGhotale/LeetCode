@@ -61,6 +61,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
@@ -186,6 +187,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AniketGhotale/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/AniketGhotale/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AniketGhotale/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -387,6 +389,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3248-snake-in-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3248-snake-in-matrix) |
@@ -416,4 +419,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AniketGhotale/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
