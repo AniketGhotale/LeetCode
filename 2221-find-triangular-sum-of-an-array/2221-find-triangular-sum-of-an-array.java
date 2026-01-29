@@ -10,13 +10,6 @@ class Solution {
                 nums[j] = (nums[j]+nums[j+1])%10;
             }
         }
-        // for(int i=nums.length;i>1;i--)
-        // {
-        //     for(int j=0;j<i-1;j++)
-        //     {
-        //         nums[j] = (nums[j] + nums[j+1])%10;
-        //     }
-        // }
         // int val = 0;
         // while(n != 1){
         //     int res[] = new int[n-1];
