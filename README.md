@@ -47,6 +47,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
+| [1817-finding-the-users-active-minutes](https://github.com/AniketGhotale/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -123,6 +124,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1630-arithmetic-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1817-finding-the-users-active-minutes](https://github.com/AniketGhotale/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AniketGhotale/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AniketGhotale/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
