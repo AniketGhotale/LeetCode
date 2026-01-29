@@ -331,6 +331,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1148-article-views-i](https://github.com/AniketGhotale/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/AniketGhotale/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/AniketGhotale/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/AniketGhotale/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AniketGhotale/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AniketGhotale/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AniketGhotale/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
