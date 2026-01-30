@@ -4,9 +4,9 @@ class Solution {
         int sum = 0;
         for(int i=0; i<operations.length; i++){
 
-            // if(operations[i].length() > 1 || Character.isDigit(operations[i].charAt(0))){
-            //     s.push(Integer.parseInt(operations[i]));
-            // }else{
+            if(operations[i].length() > 1 || Character.isDigit(operations[i].charAt(0))){
+                s.push(Integer.parseInt(operations[i]));
+            }else{
                 if(operations[i].equals("C")){
                     s.pop();
                 }else if(operations[i].equals("D")){
@@ -16,11 +16,11 @@ class Solution {
                     int sec = s.peek();
                     s.push(f);
                     s.push(f + sec);
-                }else{
-                    s.push(Integer.parseInt(operations[i]));
-                }
+                } //else{
+                //     s.push(Integer.parseInt(operations[i]));
+                // }
             }
-        //}
+        }
         while(!s.isEmpty()){
             sum += s.pop();
         }
