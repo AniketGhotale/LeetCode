@@ -101,6 +101,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3131-find-the-integer-added-to-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AniketGhotale/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AniketGhotale/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AniketGhotale/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3248-snake-in-matrix) |
@@ -160,6 +161,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AniketGhotale/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AniketGhotale/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AniketGhotale/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/AniketGhotale/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -397,6 +399,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AniketGhotale/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AniketGhotale/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
