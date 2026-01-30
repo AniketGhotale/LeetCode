@@ -56,6 +56,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -199,6 +200,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AniketGhotale/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/AniketGhotale/LeetCode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AniketGhotale/LeetCode/tree/master/2396-strictly-palindromic-number) |
@@ -436,6 +438,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AniketGhotale/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
