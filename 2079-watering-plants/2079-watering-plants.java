@@ -7,10 +7,10 @@ class Solution {
                 capacity -= plants[i];
                 count++;
             }else{
-                //count+=i;
-                count += (2*i)+1;
+                count+=i;
+                //count += (2*i)+1;
                 capacity = org;
-                //count+=(i+1);
+                count+=(i+1);
                 capacity -= plants[i];
             }
         }
