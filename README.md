@@ -76,6 +76,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
@@ -152,6 +153,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -280,6 +282,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -470,4 +473,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
