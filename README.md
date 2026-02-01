@@ -32,6 +32,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
+| [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AniketGhotale/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -137,6 +138,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/AniketGhotale/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AniketGhotale/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -307,6 +309,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0557-reverse-words-in-a-string-iii](https://github.com/AniketGhotale/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/AniketGhotale/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AniketGhotale/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/AniketGhotale/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
