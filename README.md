@@ -44,6 +44,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketGhotale/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AniketGhotale/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1470-shuffle-the-array](https://github.com/AniketGhotale/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
