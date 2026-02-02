@@ -99,6 +99,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2733-neither-minimum-nor-maximum](https://github.com/AniketGhotale/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AniketGhotale/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2788-split-strings-by-separator](https://github.com/AniketGhotale/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AniketGhotale/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -177,6 +178,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/AniketGhotale/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -306,6 +308,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AniketGhotale/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
