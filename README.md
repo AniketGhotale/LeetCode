@@ -43,6 +43,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AniketGhotale/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/AniketGhotale/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketGhotale/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AniketGhotale/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -153,6 +154,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AniketGhotale/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -427,6 +429,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AniketGhotale/LeetCode/tree/master/1748-sum-of-unique-elements) |
