@@ -108,6 +108,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/AniketGhotale/LeetCode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -492,6 +493,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AniketGhotale/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/AniketGhotale/LeetCode/tree/master/2951-find-the-peaks) |
 ## Monotonic Stack
 |  |
 | ------- |
