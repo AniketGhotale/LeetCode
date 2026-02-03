@@ -89,6 +89,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -295,6 +296,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/AniketGhotale/LeetCode/tree/master/2396-strictly-palindromic-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -319,6 +321,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AniketGhotale/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -397,6 +400,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Database
 |  |
