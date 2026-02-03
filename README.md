@@ -69,6 +69,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-two-out-of-three](https://github.com/AniketGhotale/LeetCode/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -170,6 +171,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AniketGhotale/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AniketGhotale/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-two-out-of-three](https://github.com/AniketGhotale/LeetCode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -351,6 +353,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AniketGhotale/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AniketGhotale/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -441,6 +444,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/AniketGhotale/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
