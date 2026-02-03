@@ -106,6 +106,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2788-split-strings-by-separator](https://github.com/AniketGhotale/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AniketGhotale/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -187,6 +188,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2670-find-the-distinct-difference-array](https://github.com/AniketGhotale/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -412,6 +414,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Stack
 |  |
 | ------- |
