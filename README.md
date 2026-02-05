@@ -79,6 +79,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -179,6 +180,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-two-out-of-three](https://github.com/AniketGhotale/LeetCode/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -322,6 +324,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -493,6 +496,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2079-watering-plants](https://github.com/AniketGhotale/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
