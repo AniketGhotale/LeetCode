@@ -2,10 +2,11 @@ class Solution {
     public List<String> commonChars(String[] words) {
         List<String> res = new ArrayList<>();
         int min[] = new int[26];
-        for(int i=0; i<words[0].length(); i++){
-            min[words[0].charAt(i) - 'a']++;
-        }
-        for(int i=1;i<words.length; i++){
+        // for(int i=0; i<words[0].length(); i++){
+        //     min[words[0].charAt(i) - 'a']++;
+        // }
+        Arrays.fill(min, Integer.MAX_VALUE);
+        for(int i=0;i<words.length; i++){
             int freq[] = new int[26];
             for(int j=0; j<words[i].length(); j++){
                 freq[words[i].charAt(j) - 'a']++;
