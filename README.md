@@ -103,6 +103,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/AniketGhotale/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AniketGhotale/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2643-row-with-maximum-ones](https://github.com/AniketGhotale/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/AniketGhotale/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
 | [2678-number-of-senior-citizens](https://github.com/AniketGhotale/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -457,6 +458,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/AniketGhotale/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
 |  |
