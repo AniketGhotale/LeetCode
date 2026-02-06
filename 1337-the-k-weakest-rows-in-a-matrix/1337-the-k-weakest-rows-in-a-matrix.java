@@ -8,6 +8,8 @@ class Solution {
             for(int j=0; j<mat[i].length; j++){
                 if(mat[i][j] == 1){
                     count++;
+                }else{
+                    break;
                 }
             }
             res[i] = count;
