@@ -99,6 +99,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AniketGhotale/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -387,6 +388,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AniketGhotale/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/AniketGhotale/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
