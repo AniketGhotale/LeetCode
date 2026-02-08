@@ -8,7 +8,13 @@ class Solution {
             int row2 = queries[i][2];
             int col2 = queries[i][3];
 
-            fill(row1, col1, row2, col2, res);
+
+            for (int k = row1; k <= row2; k++) {
+                for (int j = col1; j <= col2; j++) {
+                    res[k][j]++;
+                }
+            }
+            //fill(row1, col1, row2, col2, res);
         }
         return res;
     }
