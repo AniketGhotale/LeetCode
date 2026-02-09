@@ -161,6 +161,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3731-find-missing-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Hash Table
 |  |
 | ------- |
