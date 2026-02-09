@@ -141,6 +141,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AniketGhotale/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3151-special-array-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AniketGhotale/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AniketGhotale/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -226,6 +227,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AniketGhotale/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AniketGhotale/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
