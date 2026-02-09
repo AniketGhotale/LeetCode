@@ -147,6 +147,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3285-find-indices-of-stable-mountains](https://github.com/AniketGhotale/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AniketGhotale/LeetCode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AniketGhotale/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AniketGhotale/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -225,6 +226,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3162-find-the-number-of-good-pairs-i](https://github.com/AniketGhotale/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/AniketGhotale/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AniketGhotale/LeetCode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AniketGhotale/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/AniketGhotale/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
