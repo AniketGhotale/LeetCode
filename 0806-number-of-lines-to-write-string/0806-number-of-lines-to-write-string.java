@@ -9,8 +9,7 @@ class Solution {
                 limit+=charWidth;
             }else{
                 line++;
-                limit = 0;
-                limit+=charWidth;
+                limit=charWidth;
             }
         }
         res[0] = line;
