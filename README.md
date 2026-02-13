@@ -34,6 +34,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0500-keyboard-row](https://github.com/AniketGhotale/LeetCode/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
+| [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -401,6 +402,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0557-reverse-words-in-a-string-iii](https://github.com/AniketGhotale/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/AniketGhotale/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AniketGhotale/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1002-find-common-characters) |
