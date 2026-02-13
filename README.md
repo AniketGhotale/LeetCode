@@ -45,6 +45,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1122-relative-sort-array](https://github.com/AniketGhotale/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AniketGhotale/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AniketGhotale/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AniketGhotale/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -280,6 +281,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0908-smallest-range-i](https://github.com/AniketGhotale/LeetCode/tree/master/0908-smallest-range-i) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AniketGhotale/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AniketGhotale/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -454,6 +456,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/AniketGhotale/LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
