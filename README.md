@@ -75,6 +75,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/AniketGhotale/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AniketGhotale/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -369,6 +370,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1630-arithmetic-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AniketGhotale/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
