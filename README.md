@@ -100,6 +100,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AniketGhotale/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AniketGhotale/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -215,6 +216,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AniketGhotale/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
@@ -375,6 +377,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AniketGhotale/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -536,6 +539,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AniketGhotale/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/AniketGhotale/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AniketGhotale/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
