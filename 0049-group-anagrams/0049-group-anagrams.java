@@ -1,7 +1,6 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> list = new ArrayList<>();
-        //List<String> li = new ArrayList<>();
         boolean visited[] = new boolean[strs.length];
         for(int i=0; i<strs.length; i++){
             if(visited[i]){
@@ -26,19 +25,7 @@ class Solution {
                     l.add(strs[j]);
                     visited[j] = true;
                 }
-                //boolean flag= true;
-                // if(!list.contains(str2)){
-                //     for(char ch : str2.toCharArray()){
-                //         //arr[ch - 'a']--;
-                //         if(arr[ch - 'a'] <= 0){
-                //             flag = false;
-                //             break;
-                //         }
-                //     }
-                //     if(flag){
-                //         l.add(str2);
-                //     }
-                // }
+
             }
             list.add(l);
         }
