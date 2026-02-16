@@ -13,6 +13,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0033-search-in-rotated-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AniketGhotale/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/AniketGhotale/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -180,6 +181,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AniketGhotale/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -355,6 +357,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
@@ -397,6 +400,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0020-valid-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AniketGhotale/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AniketGhotale/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
