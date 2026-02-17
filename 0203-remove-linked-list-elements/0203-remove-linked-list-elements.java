@@ -16,9 +16,6 @@ class Solution {
         ListNode curr = head;
         ListNode prev = head;
         while(curr!=null){
-            // if(curr == head && curr.val == val){
-            //     curr = curr.next;
-            // }
             if(curr.val == val){
                 prev.next = curr.next;
                 curr = curr.next;
