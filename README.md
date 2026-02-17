@@ -125,6 +125,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2574-left-and-right-sum-differences](https://github.com/AniketGhotale/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AniketGhotale/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/AniketGhotale/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/AniketGhotale/LeetCode/tree/master/2670-find-the-distinct-difference-array) |
@@ -520,6 +521,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2574-left-and-right-sum-differences](https://github.com/AniketGhotale/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3028-ant-on-the-boundary](https://github.com/AniketGhotale/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AniketGhotale/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
