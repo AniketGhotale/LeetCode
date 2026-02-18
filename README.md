@@ -84,6 +84,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/AniketGhotale/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/AniketGhotale/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2032-two-out-of-three](https://github.com/AniketGhotale/LeetCode/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -534,6 +535,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/AniketGhotale/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/AniketGhotale/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/AniketGhotale/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AniketGhotale/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2643-row-with-maximum-ones](https://github.com/AniketGhotale/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -589,6 +591,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/AniketGhotale/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2079-watering-plants](https://github.com/AniketGhotale/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
