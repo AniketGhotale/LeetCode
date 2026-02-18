@@ -123,6 +123,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/AniketGhotale/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -359,6 +360,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AniketGhotale/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AniketGhotale/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -600,6 +602,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/AniketGhotale/LeetCode/tree/master/3028-ant-on-the-boundary) |
