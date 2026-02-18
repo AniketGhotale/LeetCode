@@ -10,9 +10,7 @@ class Solution {
             boolean flag = true;
             for(int i=0; i<word.length(); i++){
                 arr2[word.charAt(i) - 'a']++;
-            }
-            for(int i=0; i<26; i++){
-                if(arr[i] - arr2[i] < 0){
+                if(arr[word.charAt(i) - 'a'] < arr2[word.charAt(i) - 'a']){
                     flag = false;
                 } 
             }
