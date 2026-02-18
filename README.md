@@ -68,6 +68,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/AniketGhotale/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1630-arithmetic-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -433,6 +434,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1108-defanging-an-ip-address](https://github.com/AniketGhotale/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -519,6 +521,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
 ## Prefix Sum
 |  |
 | ------- |
