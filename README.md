@@ -50,6 +50,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AniketGhotale/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AniketGhotale/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AniketGhotale/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/AniketGhotale/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
