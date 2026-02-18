@@ -9,8 +9,9 @@ class Solution {
             int arr2[] = new int[26];
             boolean flag = true;
             for(int i=0; i<word.length(); i++){
-                arr2[word.charAt(i) - 'a']++;
-                if(arr[word.charAt(i) - 'a'] < arr2[word.charAt(i) - 'a']){
+                int ch  =  word.charAt(i) - 'a';
+                arr2[ch]++;
+                if(arr[ch] < arr2[ch]){
                     flag = false;
                 } 
             }
