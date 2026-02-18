@@ -6,7 +6,7 @@ class Solution {
         //String res = "";
         for(int i=0; i<spaces.length; i++){
             //res += s.substring(start,spaces[i]) + " ";
-            res.append(s.substring(start,spaces[i]) + " ");
+            res.append(s.substring(start,spaces[i])).append(" ");
             start = spaces[i];
         }
         res.append(s.substring(start));
