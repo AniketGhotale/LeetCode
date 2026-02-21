@@ -8,7 +8,7 @@ class Solution {
                 for(int k=0; k<n; k++){
                     if(grid[k][j] != grid[i][k]){
                         flag = false;
-                        
+                        break;
                     }
                 }
                 if(flag){
