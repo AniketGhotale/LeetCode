@@ -40,6 +40,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/AniketGhotale/LeetCode/tree/master/0908-smallest-range-i) |
+| [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AniketGhotale/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -358,6 +359,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0557-reverse-words-in-a-string-iii](https://github.com/AniketGhotale/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -387,6 +389,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/AniketGhotale/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/AniketGhotale/LeetCode/tree/master/1200-minimum-absolute-difference) |
