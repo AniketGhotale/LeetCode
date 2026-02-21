@@ -174,6 +174,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AniketGhotale/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AniketGhotale/LeetCode/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3379-transformed-array](https://github.com/AniketGhotale/LeetCode/tree/master/3379-transformed-array) |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AniketGhotale/LeetCode/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AniketGhotale/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -638,6 +639,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3028-ant-on-the-boundary](https://github.com/AniketGhotale/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AniketGhotale/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3248-snake-in-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3248-snake-in-matrix) |
+| [3379-transformed-array](https://github.com/AniketGhotale/LeetCode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Counting Sort
