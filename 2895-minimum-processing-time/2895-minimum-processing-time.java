@@ -8,10 +8,11 @@ class Solution {
         for(int i=0; i<processorTime.size(); i++){
             int currentmax = 0;
             //for(int j=0; j<4; j++){
-                currentmax = Math.max(currentmax, processorTime.get(i) + tasks.get(taskIndex));
-                taskIndex += 4;
+                //currentmax = Math.max(currentmax, processorTime.get(i) + tasks.get(taskIndex));
+                // taskIndex += 4;
             //}
-            maxTime = Math.max(maxTime,currentmax);
+            maxTime = Math.max(maxTime,processorTime.get(i) + tasks.get(taskIndex));
+            taskIndex += 4;
         }
         return maxTime;
 
