@@ -7,10 +7,10 @@ class Solution {
         int taskIndex = 0;
         for(int i=0; i<processorTime.size(); i++){
             int currentmax = 0;
-            for(int j=0; j<4; j++){
+            //for(int j=0; j<4; j++){
                 currentmax = Math.max(currentmax, processorTime.get(i) + tasks.get(taskIndex));
-                taskIndex += 1;
-            }
+                taskIndex += 4;
+            //}
             maxTime = Math.max(maxTime,currentmax);
         }
         return maxTime;
