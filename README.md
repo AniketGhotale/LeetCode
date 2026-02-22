@@ -61,6 +61,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketGhotale/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AniketGhotale/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -456,6 +457,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1002-find-common-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AniketGhotale/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -501,6 +503,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Dynamic Programming
 |  |
