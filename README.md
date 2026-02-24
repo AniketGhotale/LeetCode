@@ -185,6 +185,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AniketGhotale/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AniketGhotale/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3452-sum-of-good-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/AniketGhotale/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AniketGhotale/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
