@@ -74,6 +74,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
+| [1550-three-consecutive-odds](https://github.com/AniketGhotale/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/AniketGhotale/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1630-arithmetic-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1630-arithmetic-subarrays) |
