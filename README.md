@@ -168,6 +168,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/AniketGhotale/LeetCode/tree/master/3028-ant-on-the-boundary) |
+| [3033-modify-the-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AniketGhotale/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AniketGhotale/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AniketGhotale/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -593,6 +594,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/AniketGhotale/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/AniketGhotale/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3033-modify-the-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AniketGhotale/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Counting
 |  |
