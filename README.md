@@ -132,6 +132,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/AniketGhotale/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
@@ -265,6 +266,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/AniketGhotale/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AniketGhotale/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
