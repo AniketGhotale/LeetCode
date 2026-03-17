@@ -4,9 +4,9 @@ class Solution {
         int res[] = new int[n];
         int word[]= new int[words.length];
         for(int i=0; i<words.length; i++){
-            int f = 0;
-            int l = words[i].length()-1;
-            if((words[i].charAt(f) == 'a' || words[i].charAt(f) == 'e' ||words[i].charAt(f) == 'i' ||words[i].charAt(f) == 'o' ||words[i].charAt(f) == 'u') && (words[i].charAt(l) == 'a' || words[i].charAt(l) == 'e' ||words[i].charAt(l) == 'i' ||words[i].charAt(l) == 'o' ||words[i].charAt(l) == 'u')){
+            int c = words[i].charAt(0);
+            int l = words[i].charAt(words[i].length()-1);
+            if(("aeiou".indexOf(c) != -1) && ("aeiou".indexOf(l) != -1)){
                     word[i] = 1;
                 }else{
                     word[i] = 0;
