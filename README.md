@@ -98,6 +98,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AniketGhotale/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/AniketGhotale/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -677,6 +678,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AniketGhotale/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/AniketGhotale/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AniketGhotale/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
