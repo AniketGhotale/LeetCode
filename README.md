@@ -495,6 +495,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1002-find-common-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1002-find-common-characters) |
 | [1108-defanging-an-ip-address](https://github.com/AniketGhotale/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/AniketGhotale/LeetCode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
