@@ -525,6 +525,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2788-split-strings-by-separator](https://github.com/AniketGhotale/LeetCode/tree/master/2788-split-strings-by-separator) |
+| [2810-faulty-keyboard](https://github.com/AniketGhotale/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3110-score-of-a-string) |
@@ -699,6 +700,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2810-faulty-keyboard](https://github.com/AniketGhotale/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/AniketGhotale/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AniketGhotale/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
