@@ -12,9 +12,6 @@ class Solution {
         if(l > n && f < n){
             StringBuilder sb = new StringBuilder();
             sb.append(s.substring(f));
-            // for(int i=f; i<n;i++){
-            //     sb.append(s.charAt(i));
-            // }
             for(int i=sb.length(); i<k; i++){
                 sb.append(fill);
             }
