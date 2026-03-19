@@ -540,6 +540,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AniketGhotale/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3856-trim-trailing-vowels](https://github.com/AniketGhotale/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Recursion
 |  |
 | ------- |
