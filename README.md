@@ -515,6 +515,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2109-adding-spaces-to-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AniketGhotale/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/AniketGhotale/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AniketGhotale/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -698,6 +699,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2022-convert-1d-array-into-2d-array](https://github.com/AniketGhotale/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2079-watering-plants](https://github.com/AniketGhotale/LeetCode/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/AniketGhotale/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AniketGhotale/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
