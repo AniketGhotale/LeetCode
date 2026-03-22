@@ -512,6 +512,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AniketGhotale/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2109-adding-spaces-to-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
