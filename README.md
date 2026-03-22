@@ -521,6 +521,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/AniketGhotale/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
+| [2490-circular-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AniketGhotale/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AniketGhotale/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
