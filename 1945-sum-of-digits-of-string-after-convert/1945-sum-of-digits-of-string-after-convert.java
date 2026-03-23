@@ -2,11 +2,12 @@ class Solution {
     public int getLucky(String s, int k) {
         int num = 0;
         int n = 0;
-        String str = "";
+        StringBuilder sb = new StringBuilder();
         for(int i=0; i<s.length(); i++){
             int number = s.charAt(i) - 'a' + 1;
-            str = str + "" + number; 
+            sb.append(number); 
         }
+        String str = sb.toString();
         while(k > 0){
             str = result(str);
             k--;
