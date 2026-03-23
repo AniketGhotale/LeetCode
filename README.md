@@ -511,6 +511,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AniketGhotale/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AniketGhotale/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/AniketGhotale/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
