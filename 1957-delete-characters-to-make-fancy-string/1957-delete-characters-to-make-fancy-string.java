@@ -5,9 +5,9 @@ class Solution {
         }
         StringBuilder sb = new StringBuilder();
         sb.append(s.charAt(0));
+        sb.append(s.charAt(1));
         int f = 0;
         int l = 1;
-        sb.append(s.charAt(1));
         for(int i=2; i<s.length(); i++){
             if( (sb.charAt(f) == sb.charAt(l)) && sb.charAt(l) == s.charAt(i)){
                 continue;
