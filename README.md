@@ -340,6 +340,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AniketGhotale/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AniketGhotale/LeetCode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/AniketGhotale/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
@@ -485,6 +486,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AniketGhotale/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AniketGhotale/LeetCode/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/AniketGhotale/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AniketGhotale/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
