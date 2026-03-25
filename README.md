@@ -368,6 +368,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/AniketGhotale/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AniketGhotale/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -634,6 +635,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1991-find-the-middle-index-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AniketGhotale/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/AniketGhotale/LeetCode/tree/master/2574-left-and-right-sum-differences) |
