@@ -374,6 +374,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2544-alternating-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/AniketGhotale/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AniketGhotale/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/AniketGhotale/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AniketGhotale/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AniketGhotale/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -759,6 +760,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AniketGhotale/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/AniketGhotale/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/AniketGhotale/LeetCode/tree/master/2951-find-the-peaks) |
 ## Monotonic Stack
 |  |
