@@ -2,6 +2,7 @@ class Solution {
     public String reversePrefix(String word, char ch) {
         Stack<Character> s = new Stack<>();
         StringBuilder sb = new StringBuilder();
+        
         int idx = 0;
         for(int i=0; i<word.length(); i++){
             s.push(word.charAt(i));
