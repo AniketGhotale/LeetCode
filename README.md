@@ -517,6 +517,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AniketGhotale/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -629,6 +630,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AniketGhotale/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/AniketGhotale/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
