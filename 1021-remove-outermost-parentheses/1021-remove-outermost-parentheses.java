@@ -1,7 +1,7 @@
 class Solution {
     public String removeOuterParentheses(String s) {
         char arr[] = s.toCharArray();
-        Stack<Character> st = new Stack<>();
+        //Stack<Character> st = new Stack<>();
         String str = "";
         int open = 0;
         int close = 0;
