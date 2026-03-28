@@ -7,14 +7,14 @@ class Solution {
             s.push(word.charAt(i));
             if(word.charAt(i) == ch){
                 idx = i;
-                while(!s.isEmpty()){
-                    sb.append(s.pop());
-                }
                 break;
             }
         }
         if(idx == 0){
             return word;
+        }
+        while(!s.isEmpty()){
+            sb.append(s.pop());
         }
         return sb.toString() + word.substring(idx+1);
     }
