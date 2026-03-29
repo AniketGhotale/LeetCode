@@ -39,6 +39,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -411,6 +412,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AniketGhotale/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -506,6 +508,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0709-to-lower-case](https://github.com/AniketGhotale/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AniketGhotale/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/AniketGhotale/LeetCode/tree/master/0824-goat-latin) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
