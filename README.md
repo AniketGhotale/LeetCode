@@ -93,6 +93,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/AniketGhotale/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1710-maximum-units-on-a-truck](https://github.com/AniketGhotale/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1726-tuple-with-same-product](https://github.com/AniketGhotale/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/AniketGhotale/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -464,6 +465,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AniketGhotale/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1630-arithmetic-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/AniketGhotale/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AniketGhotale/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -604,6 +606,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/AniketGhotale/LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1710-maximum-units-on-a-truck](https://github.com/AniketGhotale/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AniketGhotale/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
