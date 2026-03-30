@@ -8,7 +8,7 @@ class Solution {
         for(int i=k; i<n-k; i++){
             sum += arr[i];
         }
-        double res = (double)sum/( n - (2*k) );
-        return res;
+        
+        return (double)sum/( n - (2*k) );
     }
 }
