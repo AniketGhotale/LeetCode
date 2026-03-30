@@ -114,6 +114,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/AniketGhotale/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AniketGhotale/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/AniketGhotale/LeetCode/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AniketGhotale/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -733,6 +734,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AniketGhotale/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
@@ -748,6 +750,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AniketGhotale/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AniketGhotale/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AniketGhotale/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/AniketGhotale/LeetCode/tree/master/2079-watering-plants) |
 | [2109-adding-spaces-to-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/AniketGhotale/LeetCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
