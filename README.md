@@ -221,6 +221,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/AniketGhotale/LeetCode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
@@ -775,6 +776,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3379-transformed-array](https://github.com/AniketGhotale/LeetCode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Counting Sort
 |  |
 | ------- |
