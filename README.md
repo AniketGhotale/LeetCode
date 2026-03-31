@@ -67,6 +67,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1331-rank-transform-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AniketGhotale/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -652,6 +653,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AniketGhotale/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AniketGhotale/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AniketGhotale/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AniketGhotale/LeetCode/tree/master/1544-make-the-string-great) |
@@ -849,4 +851,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/AniketGhotale/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
