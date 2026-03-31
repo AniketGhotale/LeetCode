@@ -72,6 +72,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AniketGhotale/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/AniketGhotale/LeetCode/tree/master/1436-destination-city) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AniketGhotale/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/AniketGhotale/LeetCode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AniketGhotale/LeetCode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -651,6 +652,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AniketGhotale/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AniketGhotale/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/AniketGhotale/LeetCode/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -750,6 +752,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AniketGhotale/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1441-build-an-array-with-stack-operations](https://github.com/AniketGhotale/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/AniketGhotale/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1929-concatenation-of-array) |
