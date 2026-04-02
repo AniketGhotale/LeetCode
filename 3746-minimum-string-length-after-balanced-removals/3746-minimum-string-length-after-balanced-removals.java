@@ -1,13 +1,21 @@
 class Solution {
     public int minLengthAfterRemovals(String s) {
-        Stack<Character> st = new Stack<>();
+        //Stack<Character> st = new Stack<>();
+        int ac = 0;
+        int bc = 0;
         for(int i=0; i<s.length(); i++){
-            if(  !st.isEmpty() && (s.charAt(i) != st.peek())){
-                st.pop();
+            if(s.charAt(i) == 'a'){
+                ac++;
             }else{
-                st.push(s.charAt(i));
+                bc++;
             }
+            // if(  !st.isEmpty() && (s.charAt(i) != st.peek())){
+            //     st.pop();
+            // }else{
+            //     st.push(s.charAt(i));
+            // }
         }
-        return st.size();
+        //return st.size();
+        return Math.abs(ac-bc);
     }
 }
