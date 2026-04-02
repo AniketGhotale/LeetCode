@@ -1,7 +1,7 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
         
-        Stack<Character> st = new Stack<>();
+        //Stack<Character> st = new Stack<>();
         int n = part.length();
         //int idx = 0;
 
