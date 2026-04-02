@@ -432,6 +432,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AniketGhotale/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -553,6 +554,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AniketGhotale/LeetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AniketGhotale/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/AniketGhotale/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AniketGhotale/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/AniketGhotale/LeetCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -624,6 +626,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/AniketGhotale/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AniketGhotale/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -667,6 +670,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AniketGhotale/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AniketGhotale/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AniketGhotale/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/AniketGhotale/LeetCode/tree/master/3174-clear-digits) |
