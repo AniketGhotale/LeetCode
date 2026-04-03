@@ -579,6 +579,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2559-count-vowel-strings-in-ranges](https://github.com/AniketGhotale/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/AniketGhotale/LeetCode/tree/master/2678-number-of-senior-citizens) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/AniketGhotale/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -673,6 +674,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AniketGhotale/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/AniketGhotale/LeetCode/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/AniketGhotale/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Prefix Sum
@@ -795,6 +797,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/AniketGhotale/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
