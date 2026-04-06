@@ -43,6 +43,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
+| [0888-fair-candy-swap](https://github.com/AniketGhotale/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/AniketGhotale/LeetCode/tree/master/0908-smallest-range-i) |
@@ -248,6 +249,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0575-distribute-candies](https://github.com/AniketGhotale/LeetCode/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/AniketGhotale/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/AniketGhotale/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AniketGhotale/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1002-find-common-characters) |
@@ -336,6 +338,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/AniketGhotale/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -466,6 +469,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/AniketGhotale/LeetCode/tree/master/0506-relative-ranks) |
+| [0888-fair-candy-swap](https://github.com/AniketGhotale/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
