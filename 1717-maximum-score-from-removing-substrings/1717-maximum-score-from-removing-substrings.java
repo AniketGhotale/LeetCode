@@ -18,7 +18,6 @@ class Solution {
 
             st.clear();
 
-            // Second pass: remove "ab"
             for (char c : sb.toString().toCharArray()) {
                 if (!st.isEmpty() && st.peek() == 'a' && c == 'b') {
                     score += x;
@@ -42,7 +41,6 @@ class Solution {
 
             st.clear();
 
-            // Second pass: remove "ba"
             for (char c : sb.toString().toCharArray()) {
                 if (!st.isEmpty() && st.peek() == 'b' && c == 'a') {
                     score += y;
