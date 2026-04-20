@@ -565,6 +565,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AniketGhotale/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AniketGhotale/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -646,6 +647,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1323-maximum-69-number](https://github.com/AniketGhotale/LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1710-maximum-units-on-a-truck](https://github.com/AniketGhotale/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -696,6 +698,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1598-crawler-log-folder](https://github.com/AniketGhotale/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AniketGhotale/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AniketGhotale/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AniketGhotale/LeetCode/tree/master/2000-reverse-prefix-of-word) |
