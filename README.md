@@ -40,6 +40,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -472,6 +473,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/AniketGhotale/LeetCode/tree/master/0506-relative-ranks) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0888-fair-candy-swap](https://github.com/AniketGhotale/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -641,6 +643,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AniketGhotale/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/AniketGhotale/LeetCode/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -684,6 +687,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AniketGhotale/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -861,6 +865,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketGhotale/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Brainteaser
 |  |
