@@ -437,6 +437,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AniketGhotale/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/AniketGhotale/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -545,6 +546,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/AniketGhotale/LeetCode/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/AniketGhotale/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0890-find-and-replace-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0890-find-and-replace-pattern) |
@@ -688,6 +690,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0503-next-greater-element-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/AniketGhotale/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AniketGhotale/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -804,6 +807,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AniketGhotale/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AniketGhotale/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
