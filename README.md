@@ -89,6 +89,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/AniketGhotale/LeetCode/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
+| [1539-kth-missing-positive-number](https://github.com/AniketGhotale/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/AniketGhotale/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/AniketGhotale/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -346,6 +347,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/AniketGhotale/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AniketGhotale/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
