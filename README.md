@@ -124,6 +124,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/AniketGhotale/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AniketGhotale/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AniketGhotale/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/AniketGhotale/LeetCode/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/AniketGhotale/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -349,6 +350,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/AniketGhotale/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/AniketGhotale/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AniketGhotale/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -658,6 +660,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AniketGhotale/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/AniketGhotale/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AniketGhotale/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AniketGhotale/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
