@@ -2,7 +2,6 @@ class Solution {
     public boolean isSameAfterReversals(int num) {
         
         int last = num%10;
-        boolean flag;
         if(last==0){
             while(num>0){
                 last = num%10;
