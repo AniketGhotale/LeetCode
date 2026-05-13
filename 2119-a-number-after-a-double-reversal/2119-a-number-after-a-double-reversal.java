@@ -1,8 +1,26 @@
 class Solution {
     public boolean isSameAfterReversals(int num) {
-        int rev1 = reverse(num);
-        int rev2 = reverse(rev1);
-        return num == rev2;
+        
+        int last = num%10;
+        boolean flag;
+        if(last==0){
+            while(num>0){
+                last = num%10;
+                if(last!=0){
+                    return false;
+                }
+                num/=10;
+            }
+            return true;
+        }else{
+            return true;
+        }
+
+
+
+        // int rev1 = reverse(num);
+        // int rev2 = reverse(rev1);
+        // return num == rev2;
     }
 
     int reverse(int n){
