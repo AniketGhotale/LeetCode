@@ -22,7 +22,6 @@ class Solution {
             }else{
                 num = map.get(s.charAt(i));
                 count += num;
-
             }
             
         }
