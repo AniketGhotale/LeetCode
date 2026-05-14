@@ -364,6 +364,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AniketGhotale/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AniketGhotale/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
@@ -634,6 +635,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## String Matching
@@ -913,6 +915,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AniketGhotale/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
