@@ -582,6 +582,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AniketGhotale/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AniketGhotale/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -667,6 +668,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AniketGhotale/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/AniketGhotale/LeetCode/tree/master/1323-maximum-69-number) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/AniketGhotale/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
