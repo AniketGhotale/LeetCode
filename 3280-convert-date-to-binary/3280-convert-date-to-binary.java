@@ -1,24 +1,14 @@
 class Solution {
     public String convertDateToBinary(String date) {
         String res  = "";
-        String num = "";
+        String[] nums = date.split("-");
         boolean flag = false;
-        for(int i=0; i<date.length(); i++){
-            if(date.charAt(i) == '-'){
-                if(flag){
-                    res = res  + "-" + getbinary(Integer.parseInt(num));
-                    num = "";
-                }else{
-                    res = res   + getbinary(Integer.parseInt(num));
-                    num = "";
-                    flag = true;
-                }
-                
-            }else{
-                num = num + date.charAt(i);
-            }
+        for(String num : nums){
+            res = res + getbinary(Integer.parseInt(num));
+            res = res + "-";
+            
         }
-        res = res  + "-" + getbinary(Integer.parseInt(num));
+        res = res.substring(0, res.length()-1);
         return res;
     }
 
