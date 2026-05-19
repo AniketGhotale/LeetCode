@@ -2,7 +2,6 @@ class Solution {
     public String convertDateToBinary(String date) {
         String res  = "";
         String[] nums = date.split("-");
-        boolean flag = false;
         for(String num : nums){
             res = res + getbinary(Integer.parseInt(num));
             res = res + "-";
