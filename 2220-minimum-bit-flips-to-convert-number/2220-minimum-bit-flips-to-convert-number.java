@@ -1,7 +1,7 @@
 class Solution {
     public int minBitFlips(int start, int goal) {
-        String b1 = getbinary(start);
-        String b2 = getbinary(goal);
+        // String b1 = getbinary(start);
+        // String b2 = getbinary(goal);
         int x = start ^ goal;
         return Integer.bitCount(x);
         // int count = 0;
@@ -21,19 +21,19 @@ class Solution {
         //return count;
     }
 
-    String getbinary(int n){
-        String binary = "";
-        while(n > 0){
-            binary = (n % 2) + binary;
-            n/=2;
-        }
-        return binary;
-    }
+    // String getbinary(int n){
+    //     String binary = "";
+    //     while(n > 0){
+    //         binary = (n % 2) + binary;
+    //         n/=2;
+    //     }
+    //     return binary;
+    // }
 
-    String addzero(int n, String s){
-        for(int i=0; i<n;i++){
-            s = '0' + s;
-        }
-        return s;
-    }
+    // String addzero(int n, String s){
+    //     for(int i=0; i<n;i++){
+    //         s = '0' + s;
+    //     }
+    //     return s;
+    // }
 }
