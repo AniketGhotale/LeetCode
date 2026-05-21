@@ -8,10 +8,6 @@ class Solution {
     }
 
     int getcount(int[][] points, int x, int y, int r){
-        int xl = x-r;
-        int xr = x+r;
-        int yt = y+r;
-        int yb = y-r;
         int count = 0;
         
         for(int i=0; i<points.length; i++){
@@ -22,9 +18,6 @@ class Solution {
             if( (dx*dx) + (dy*dy) <= (r*r)){
                 count++;
             }
-            // if( (x1 > dx && x1 < dx) && (y1 < dy && y1 > dy)){
-            //     count++;
-            // }
         }
         return count;
     }
