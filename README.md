@@ -112,6 +112,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/AniketGhotale/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AniketGhotale/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/AniketGhotale/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AniketGhotale/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -398,6 +399,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AniketGhotale/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AniketGhotale/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AniketGhotale/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/AniketGhotale/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AniketGhotale/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -948,6 +950,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/AniketGhotale/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Quickselect
 |  |
 | ------- |
