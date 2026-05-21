@@ -73,6 +73,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AniketGhotale/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AniketGhotale/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1389-create-target-array-in-the-given-order](https://github.com/AniketGhotale/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/AniketGhotale/LeetCode/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
@@ -847,6 +848,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0946-validate-stack-sequences](https://github.com/AniketGhotale/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AniketGhotale/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/AniketGhotale/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AniketGhotale/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AniketGhotale/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
