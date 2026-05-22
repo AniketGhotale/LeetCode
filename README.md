@@ -240,6 +240,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
+| [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/AniketGhotale/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/AniketGhotale/LeetCode/tree/master/3861-minimum-capacity-box) |
@@ -654,6 +655,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/AniketGhotale/LeetCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3798-largest-even-number](https://github.com/AniketGhotale/LeetCode/tree/master/3798-largest-even-number) |
+| [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/AniketGhotale/LeetCode/tree/master/3856-trim-trailing-vowels) |
 ## Recursion
 |  |
@@ -892,6 +894,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AniketGhotale/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/AniketGhotale/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 ## Counting Sort
