@@ -191,6 +191,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AniketGhotale/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2895-minimum-processing-time](https://github.com/AniketGhotale/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AniketGhotale/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -832,6 +833,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AniketGhotale/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AniketGhotale/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AniketGhotale/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Queue
 |  |
 | ------- |
