@@ -168,6 +168,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/AniketGhotale/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AniketGhotale/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
@@ -536,6 +537,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AniketGhotale/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/AniketGhotale/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/AniketGhotale/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AniketGhotale/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -779,6 +781,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/AniketGhotale/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2352-equal-row-and-column-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/AniketGhotale/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/AniketGhotale/LeetCode/tree/master/2639-find-the-width-of-columns-of-a-grid) |
 | [2643-row-with-maximum-ones](https://github.com/AniketGhotale/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
