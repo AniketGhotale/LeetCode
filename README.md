@@ -198,6 +198,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2895-minimum-processing-time](https://github.com/AniketGhotale/LeetCode/tree/master/2895-minimum-processing-time) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/AniketGhotale/LeetCode/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2917-find-the-k-or-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/AniketGhotale/LeetCode/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -843,6 +844,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2506-count-pairs-of-similar-strings](https://github.com/AniketGhotale/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AniketGhotale/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2917-find-the-k-or-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AniketGhotale/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Queue
 |  |
