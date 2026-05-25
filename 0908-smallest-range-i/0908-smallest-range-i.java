@@ -3,8 +3,14 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int max = Integer.MIN_VALUE;
         for(int i=0; i<nums.length; i++){
-            max = Math.max(max,nums[i]);
-            min = Math.min(min,nums[i]);
+            if(nums[i] > max){
+                max = nums[i];
+            }
+            if(nums[i] < min){
+                min=nums[i];
+            }
+            // max = Math.max(max,nums[i]);
+            // min = Math.min(min,nums[i]);
             // if(nums[i] < k){
             //     nums[i]+=k;
             // }else if(nums[i] > k){
