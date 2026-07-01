@@ -27,21 +27,3 @@ class Solution {
         return true;
     }
 }
-
-// int k=0;
-//         if(s.length() == t.length()){
-//             return false;
-//         }
-//         for(int i=0; i<s.length(); i++){
-//             if(s.charAt(i) == t.charAt(k)){
-//                 for(int j=i; j<s.length(); j++){
-//                     for(int l=k; l<t.length(); l++){
-//                         if(s.charAt(j) != t.charAt(l)){
-//                             return true;
-//                         }
-//                     }
-//                 }
-//                 return false;
-//             }
-//         }
-//         return false;
