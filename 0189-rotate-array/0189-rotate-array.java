@@ -6,11 +6,11 @@ class Solution {
         reverse(nums,0,k-1);
         reverse(nums,k,n-1);
 
-        // for(i=0; i<nums.length; i++){
-        //     res[(i+k)%nums.length] = nums[i];
+        // for(i=0; i<n; i++){
+        //     res[(i+k)%n] = nums[i];
         // }
 
-        // for(int x=0; x<nums.length; x++){
+        // for(int x=0; x<n; x++){
         //     nums[x] = res[x];
         // }
     }
