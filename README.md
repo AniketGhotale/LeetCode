@@ -732,6 +732,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
@@ -854,6 +855,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AniketGhotale/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AniketGhotale/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -984,5 +986,6 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AniketGhotale/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
