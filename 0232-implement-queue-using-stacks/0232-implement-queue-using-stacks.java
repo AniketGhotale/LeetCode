@@ -18,7 +18,7 @@ class MyQueue {
         }
         int data = s.pop();
         while(!s1.isEmpty()){
-                s.add(s1.pop());
+            s.add(s1.pop());
         }
         // if(s1.size() < 1){
         //     return data;
