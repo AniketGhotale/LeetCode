@@ -17,14 +17,15 @@ class MyQueue {
             s1.add(s.pop());
         }
         int data = s.pop();
-        if(s1.size() < 1){
-            return data;
-        }else{
-            while(!s1.isEmpty()){
+        while(!s1.isEmpty()){
                 s.add(s1.pop());
-            }
-        return data;
         }
+        // if(s1.size() < 1){
+        //     return data;
+        // }else{
+            
+        return data;
+        //}
         
     }
     
