@@ -1,33 +1,35 @@
 class MyStack {
 
-    int top = -1;
-    ArrayList<Integer> arr = new ArrayList();
+    //int top = -1;
+    Queue<Integer> q = new LinkedList<>();
+    //ArrayList<Integer> arr = new ArrayList();
     public MyStack() {
         
     }
     
     public void push(int x) {
-        top++;
-        arr.add(x);
+        q.add(x);
     }
     
     public int pop() {
-        int data = arr.get(top);
-        arr.remove(top);
-        top--;
+        for(int i=0; i<q.size()-1; i++){
+            q.add(q.remove());
+        }
+        int data = q.remove();
         return data;
     }
     
     public int top() {
-         return arr.get(top);
+        for(int i=0; i<q.size()-1; i++){
+            q.add(q.remove());
+        }
+        int data = q.peek();
+        q.add(q.remove());
+        return data;
     }
     
     public boolean empty() {
-        if(top == -1){
-            return true;
-        }else{
-            return false;
-        }
+        return q.isEmpty();
     }
 }
 
