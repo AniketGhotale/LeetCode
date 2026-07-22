@@ -153,6 +153,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AniketGhotale/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/AniketGhotale/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/AniketGhotale/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -891,6 +892,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2303-calculate-amount-paid-in-taxes](https://github.com/AniketGhotale/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2352-equal-row-and-column-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/AniketGhotale/LeetCode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2390-removing-stars-from-a-string) |
