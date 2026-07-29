@@ -209,6 +209,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2960-count-tested-devices-after-test-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/AniketGhotale/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AniketGhotale/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3028-ant-on-the-boundary](https://github.com/AniketGhotale/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3033-modify-the-matrix) |
