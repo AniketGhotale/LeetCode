@@ -401,6 +401,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/AniketGhotale/LeetCode/tree/master/0908-smallest-range-i) |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -585,6 +586,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AniketGhotale/LeetCode/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -884,6 +886,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/AniketGhotale/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
