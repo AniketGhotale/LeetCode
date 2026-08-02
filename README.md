@@ -23,6 +23,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0088-merge-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketGhotale/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/AniketGhotale/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AniketGhotale/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AniketGhotale/LeetCode/tree/master/0162-find-peak-element) |
@@ -860,6 +861,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AniketGhotale/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AniketGhotale/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
