@@ -4,7 +4,7 @@ class Solution {
         int f = 0;
         int s = 0;
         char lastt = name.charAt(0);
-        while(s < typed.length()){
+        while(f < name.length() && s < typed.length()){
             if(name.charAt(f) == typed.charAt(s)){
                 lastt = name.charAt(f);
                 f++;
@@ -16,9 +16,7 @@ class Solution {
             }else{
                 s++;
             }
-            if(f == name.length()){
-                break;
-            }
+            
         }
         char last = name.charAt(name.length()-1);
 
