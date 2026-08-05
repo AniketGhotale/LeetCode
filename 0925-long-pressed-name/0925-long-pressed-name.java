@@ -18,7 +18,7 @@ class Solution {
             }
             
         }
-        //last = name.charAt(name.length()-1);
+        
 
         while(s < typed.length()){
             if(typed.charAt(s) != last){
