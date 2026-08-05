@@ -276,6 +276,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AniketGhotale/LeetCode/tree/master/0500-keyboard-row) |
@@ -598,6 +599,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AniketGhotale/LeetCode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
+| [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -1041,4 +1043,12 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
