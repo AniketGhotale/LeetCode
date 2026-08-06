@@ -32,16 +32,15 @@ class Solution {
                     la++;
                     r--;
                     while (la < n && nums[la] == nums[la - 1]) {
-                la++;
-            }
-            while (r > la && nums[r] == nums[r + 1]) {
-                r--;
-            }
+                        la++;
+                    }
+                    while (r > la && nums[r] == nums[r + 1]) {
+                        r--;
+                    }
                 }
             }
-
         }
-        
+        return list;
         // for(int i=0; i<n; i++){
         //     for(int j=i+1; j<n; j++){
         //         if( (i!= j) && ( (m1.containsKey(nums[i] + nums[j])) && m1.get(nums[i] + nums[j]) != i && (m1.get(nums[i] + nums[j]) != j) )){
@@ -93,6 +92,6 @@ class Solution {
         //         }
         //     }
         // }
-        return list;
+        
      }
 }
