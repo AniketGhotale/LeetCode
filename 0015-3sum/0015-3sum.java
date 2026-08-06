@@ -34,7 +34,7 @@ class Solution {
                     while (la < n && nums[la] == nums[la - 1]) {
                 la++;
             }
-            while (r > 0 && nums[r] == nums[r + 1]) {
+            while (r > la && nums[r] == nums[r + 1]) {
                 r--;
             }
                 }
