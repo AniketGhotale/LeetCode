@@ -754,6 +754,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1068-product-sales-analysis-i](https://github.com/AniketGhotale/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AniketGhotale/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AniketGhotale/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/AniketGhotale/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/AniketGhotale/LeetCode/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/AniketGhotale/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/AniketGhotale/LeetCode/tree/master/1683-invalid-tweets) |
