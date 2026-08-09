@@ -359,6 +359,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3731-find-missing-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/AniketGhotale/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/AniketGhotale/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3945-digit-frequency-score](https://github.com/AniketGhotale/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -470,6 +471,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3783-mirror-distance-of-an-integer](https://github.com/AniketGhotale/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/AniketGhotale/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3945-digit-frequency-score](https://github.com/AniketGhotale/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
