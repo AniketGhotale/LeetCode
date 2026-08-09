@@ -260,6 +260,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/AniketGhotale/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3895-count-digit-appearances](https://github.com/AniketGhotale/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/AniketGhotale/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -964,6 +965,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/AniketGhotale/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/AniketGhotale/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting Sort
 |  |
 | ------- |
