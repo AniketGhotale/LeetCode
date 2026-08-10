@@ -4,7 +4,7 @@ class Solution {
         //     return true;
         // }
         long num = (long)Math.ceil(Math.sqrt(c));
-        int low = 0;
+        long low = 0;
         long high = num;
         while(low <= high){
             long sum = (low*low) + (high*high);
