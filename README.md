@@ -760,6 +760,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0627-swap-sex-of-employees](https://github.com/AniketGhotale/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/AniketGhotale/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/AniketGhotale/LeetCode/tree/master/1148-article-views-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/AniketGhotale/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AniketGhotale/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/AniketGhotale/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/AniketGhotale/LeetCode/tree/master/1527-patients-with-a-condition) |
