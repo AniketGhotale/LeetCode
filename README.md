@@ -32,6 +32,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -412,6 +413,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0172-factorial-trailing-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AniketGhotale/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
@@ -982,6 +984,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AniketGhotale/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1002,6 +1005,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -1068,4 +1072,16 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
