@@ -2,8 +2,6 @@ class ParkingSystem {
     int big;
     int medium;
     int small;
-    //boolean arr[] = new boolean[n];
-    //arr[0] = null;
     
     public ParkingSystem(int big, int medium, int small) {
         this.big = big;
@@ -12,8 +10,7 @@ class ParkingSystem {
     }
     
     public boolean addCar(int carType) {
-        //int n = carType.length;
-        //
+
         if(carType == 1){
             if(big > 0){
                 big--;
@@ -38,8 +35,6 @@ class ParkingSystem {
             }
         }
         
-
-        //return arr;
     }
 }
 
