@@ -865,6 +865,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/AniketGhotale/LeetCode/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AniketGhotale/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/AniketGhotale/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1726-tuple-with-same-product](https://github.com/AniketGhotale/LeetCode/tree/master/1726-tuple-with-same-product) |
@@ -932,6 +933,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AniketGhotale/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AniketGhotale/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1603-design-parking-system](https://github.com/AniketGhotale/LeetCode/tree/master/1603-design-parking-system) |
 | [1688-count-of-matches-in-tournament](https://github.com/AniketGhotale/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AniketGhotale/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1701-average-waiting-time](https://github.com/AniketGhotale/LeetCode/tree/master/1701-average-waiting-time) |
@@ -1056,6 +1058,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AniketGhotale/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/AniketGhotale/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1603-design-parking-system](https://github.com/AniketGhotale/LeetCode/tree/master/1603-design-parking-system) |
 ## Memoization
 |  |
 | ------- |
