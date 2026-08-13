@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT customer_number FROM Orders GROUP BY customer_number HAVING COUNT(customer_number) = (SELECT MAX(temp) FROM (SELECT COUNT(customer_number) AS temp FROM Orders GROUP BY customer_number) AS cnt);
