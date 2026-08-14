@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT DISTINCT s.name from SalesPerson s LEFT join Orders o on s.sales_id = o.sales_id WHERE o.com_id IS NULL OR  o.sales_id NOT In (SELECT sales_id FROM Orders WHERE com_id = (SELECT com_id from Company WHERE name = 'RED'));
