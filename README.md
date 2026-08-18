@@ -782,6 +782,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1587-bank-account-summary-ii](https://github.com/AniketGhotale/LeetCode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/AniketGhotale/LeetCode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/AniketGhotale/LeetCode/tree/master/1693-daily-leads-and-partners) |
+| [1729-find-followers-count](https://github.com/AniketGhotale/LeetCode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AniketGhotale/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AniketGhotale/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/AniketGhotale/LeetCode/tree/master/1890-the-latest-login-in-2020) |
