@@ -17,7 +17,7 @@ class Solution {
             if (sb.charAt(i) == ')') {
                 sb.deleteCharAt(i);
                 close--;
-                i--; // adjust index after deletion
+                i--; 
             }
         }
 
