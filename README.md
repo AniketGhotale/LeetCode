@@ -602,6 +602,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AniketGhotale/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AniketGhotale/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/AniketGhotale/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AniketGhotale/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/AniketGhotale/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -800,6 +801,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/AniketGhotale/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AniketGhotale/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AniketGhotale/LeetCode/tree/master/0232-implement-queue-using-stacks) |
