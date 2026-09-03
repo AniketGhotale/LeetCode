@@ -5,7 +5,6 @@ class Solution {
             if(nums[i] % 3 != 0){
                 count++;
             }
-            //count += (Math.min(nums[i] % 3 , (3 - nums[i] % 3)));
         }
         return count;
     }
