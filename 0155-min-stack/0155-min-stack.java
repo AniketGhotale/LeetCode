@@ -33,9 +33,7 @@ class MinStack {
     }
     
     public int getMin() {
-        if(smin.isEmpty()){
-            return 0;
-        }
+      
         return smin.peek();
     }
 }
