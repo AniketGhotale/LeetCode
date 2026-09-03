@@ -1,21 +1,21 @@
 class Solution {
     public String mapWordWeights(String[] words, int[] weights) {
-        String res = "";
-
-        for(int i=0; i<words.length; i++){
-            int idx = getidx(words[i], weights) % 26;
-            res += (char)('z' - idx);
+        
+        StringBuilder sb = new StringBuilder();
+        int n = words.length;
+        for(String word : words){
+            int res = getres(word,weights);
+            int idx = 122 - res;
+            sb.append((char) idx);
         }
-        return res;
+        return sb.toString();
     }
-
-    int getidx(String s,int[] weights){
-        int idx = 0;
-        for(int i=0; i<s.length(); i++){
-            char ch = s.charAt(i);
-            int id = ch - 'a';
-            idx += weights[id];
+    int getres(String s, int[] arr){
+        int res = 0;
+        for(char ch : s.toCharArray()){
+            int idx = ch - 97;
+            res += arr[idx];
         }
-        return idx;
+        return res % 26;
     }
 }
