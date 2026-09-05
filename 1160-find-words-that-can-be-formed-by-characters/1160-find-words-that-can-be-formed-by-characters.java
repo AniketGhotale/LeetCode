@@ -14,6 +14,7 @@ class Solution {
             for(int i=0; i<26; i++){
                 if(arr[i] - arr2[i] < 0){
                     flag = false;
+                    break;
                 } 
             }
             if(flag){
