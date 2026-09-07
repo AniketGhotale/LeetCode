@@ -796,6 +796,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1965-employees-with-missing-information](https://github.com/AniketGhotale/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AniketGhotale/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AniketGhotale/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+| [3570-find-books-with-no-available-copies](https://github.com/AniketGhotale/LeetCode/tree/master/3570-find-books-with-no-available-copies) |
 ## Sliding Window
 |  |
 | ------- |
