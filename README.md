@@ -479,6 +479,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AniketGhotale/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/AniketGhotale/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/AniketGhotale/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
