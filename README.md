@@ -630,6 +630,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0657-robot-return-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/AniketGhotale/LeetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AniketGhotale/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/AniketGhotale/LeetCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/AniketGhotale/LeetCode/tree/master/0824-goat-latin) |
@@ -730,6 +731,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/AniketGhotale/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/AniketGhotale/LeetCode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/AniketGhotale/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
