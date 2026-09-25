@@ -172,6 +172,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2399-check-distances-between-same-letters](https://github.com/AniketGhotale/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/AniketGhotale/LeetCode/tree/master/2418-sort-the-people) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/AniketGhotale/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AniketGhotale/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -950,6 +951,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2032-two-out-of-three](https://github.com/AniketGhotale/LeetCode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AniketGhotale/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/AniketGhotale/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AniketGhotale/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AniketGhotale/LeetCode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
