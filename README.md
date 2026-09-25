@@ -264,6 +264,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3861-minimum-capacity-box](https://github.com/AniketGhotale/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3895-count-digit-appearances](https://github.com/AniketGhotale/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/AniketGhotale/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AniketGhotale/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -533,6 +534,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AniketGhotale/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AniketGhotale/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
 |  |
 | ------- |
@@ -599,6 +601,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3731-find-missing-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AniketGhotale/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AniketGhotale/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
 |  |
 | ------- |
@@ -768,6 +771,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2706-buy-two-chocolates](https://github.com/AniketGhotale/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2895-minimum-processing-time](https://github.com/AniketGhotale/LeetCode/tree/master/2895-minimum-processing-time) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/AniketGhotale/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Database
 |  |
 | ------- |
