@@ -12,14 +12,16 @@ class Solution {
                 continue;
             }else{
                 String str = arr[i].substring(0,idx);
-                if(map.containsKey(str)){
-                    String rep = map.get(str);
-                    String ext = arr[i].substring(idx+1);
-                    arr[i] = rep + ext;
-                }else{
-                    String ext = arr[i].substring(idx+1);
-                    arr[i] = "?" + ext;
-                }
+                String ext = arr[i].substring(idx+1);
+                arr[i] = map.getOrDefault(str,"?") + ext;
+                // if(map.containsKey(str)){
+                //     String rep = map.get(str);
+                //     String ext = arr[i].substring(idx+1);
+                //     arr[i] = rep + ext;
+                // }else{
+                //     String ext = arr[i].substring(idx+1);
+                //     arr[i] = "?" + ext;
+                // }
             }
         }
         String res = String.join("",arr);
