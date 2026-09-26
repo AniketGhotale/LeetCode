@@ -120,6 +120,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1726-tuple-with-same-product](https://github.com/AniketGhotale/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/AniketGhotale/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1817-finding-the-users-active-minutes](https://github.com/AniketGhotale/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AniketGhotale/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -309,6 +310,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1726-tuple-with-same-product](https://github.com/AniketGhotale/LeetCode/tree/master/1726-tuple-with-same-product) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/AniketGhotale/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/AniketGhotale/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1817-finding-the-users-active-minutes](https://github.com/AniketGhotale/LeetCode/tree/master/1817-finding-the-users-active-minutes) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AniketGhotale/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/AniketGhotale/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -668,6 +670,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1704-determine-if-string-halves-are-alike](https://github.com/AniketGhotale/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/AniketGhotale/LeetCode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AniketGhotale/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/AniketGhotale/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AniketGhotale/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AniketGhotale/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
