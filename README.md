@@ -265,6 +265,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3861-minimum-capacity-box](https://github.com/AniketGhotale/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/AniketGhotale/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AniketGhotale/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/AniketGhotale/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/AniketGhotale/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
@@ -906,6 +907,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/3033-modify-the-matrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AniketGhotale/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AniketGhotale/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting
 |  |
 | ------- |
@@ -1150,4 +1152,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AniketGhotale/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AniketGhotale/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
