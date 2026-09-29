@@ -736,6 +736,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0002-add-two-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AniketGhotale/LeetCode/tree/master/0394-decode-string) |
 ## String Matching
 |  |
@@ -1100,6 +1101,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0002-add-two-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AniketGhotale/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
