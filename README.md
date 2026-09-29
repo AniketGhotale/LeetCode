@@ -1101,6 +1101,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0002-add-two-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AniketGhotale/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AniketGhotale/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
