@@ -466,6 +466,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2544-alternating-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/AniketGhotale/LeetCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AniketGhotale/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/AniketGhotale/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AniketGhotale/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -1075,6 +1076,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AniketGhotale/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/AniketGhotale/LeetCode/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AniketGhotale/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AniketGhotale/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
@@ -1111,6 +1113,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AniketGhotale/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
