@@ -1016,6 +1016,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2154-keep-multiplying-found-values-by-two](https://github.com/AniketGhotale/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AniketGhotale/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/AniketGhotale/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/AniketGhotale/LeetCode/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2352-equal-row-and-column-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -1113,6 +1114,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AniketGhotale/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/AniketGhotale/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Geometry
 |  |
