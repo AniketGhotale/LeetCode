@@ -14,16 +14,16 @@ class Solution {
         for(int i=0; i<a-1; i++){
             head1 = head1.next;
         }
-        ListNode head2 = list2;
-        while(head2.next != null){
-            head2 = head2.next;
+        ListNode tail2 = list2;
+        while(tail2.next != null){
+            tail2 = tail2.next;
         }
         ListNode tail1 = head1;
         for(int i=0; i<=b-a; i++){
             tail1 = tail1.next;
         }
         head1.next = list2;
-        head2.next = tail1.next;
+        tail2.next = tail1.next;
 
         return list1;
     }
