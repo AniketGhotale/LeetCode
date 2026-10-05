@@ -388,6 +388,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AniketGhotale/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/AniketGhotale/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -432,6 +433,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0227-basic-calculator-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/AniketGhotale/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0728-self-dividing-numbers) |
