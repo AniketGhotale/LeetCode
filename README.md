@@ -389,6 +389,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0278-first-bad-version](https://github.com/AniketGhotale/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AniketGhotale/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/AniketGhotale/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -1196,4 +1197,5 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AniketGhotale/LeetCode/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AniketGhotale/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
