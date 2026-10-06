@@ -184,6 +184,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2536-increment-submatrices-by-one](https://github.com/AniketGhotale/LeetCode/tree/master/2536-increment-submatrices-by-one) |
+| [2540-minimum-common-value](https://github.com/AniketGhotale/LeetCode/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AniketGhotale/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AniketGhotale/LeetCode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -346,6 +347,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/AniketGhotale/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2506-count-pairs-of-similar-strings](https://github.com/AniketGhotale/LeetCode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2540-minimum-common-value](https://github.com/AniketGhotale/LeetCode/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AniketGhotale/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -407,6 +409,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketGhotale/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/AniketGhotale/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -555,6 +558,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/AniketGhotale/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [2540-minimum-common-value](https://github.com/AniketGhotale/LeetCode/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/AniketGhotale/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/AniketGhotale/LeetCode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
