@@ -248,6 +248,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AniketGhotale/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3452-sum-of-good-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/AniketGhotale/LeetCode/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AniketGhotale/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AniketGhotale/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -411,6 +412,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketGhotale/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/AniketGhotale/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1062,6 +1064,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketGhotale/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3379-transformed-array](https://github.com/AniketGhotale/LeetCode/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AniketGhotale/LeetCode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/AniketGhotale/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -1114,6 +1117,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/AniketGhotale/LeetCode/tree/master/2363-merge-similar-items) |
+| [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1209,4 +1213,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0278-first-bad-version](https://github.com/AniketGhotale/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AniketGhotale/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
