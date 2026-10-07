@@ -37,6 +37,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AniketGhotale/LeetCode/tree/master/0500-keyboard-row) |
@@ -530,6 +531,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AniketGhotale/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AniketGhotale/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
