@@ -628,6 +628,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2706-buy-two-chocolates](https://github.com/AniketGhotale/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/AniketGhotale/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/AniketGhotale/LeetCode/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2785-sort-vowels-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/AniketGhotale/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2895-minimum-processing-time](https://github.com/AniketGhotale/LeetCode/tree/master/2895-minimum-processing-time) |
 | [3467-transform-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -740,6 +741,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/AniketGhotale/LeetCode/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/AniketGhotale/LeetCode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2785-sort-vowels-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2788-split-strings-by-separator](https://github.com/AniketGhotale/LeetCode/tree/master/2788-split-strings-by-separator) |
 | [2810-faulty-keyboard](https://github.com/AniketGhotale/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
