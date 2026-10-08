@@ -44,6 +44,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0503-next-greater-element-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/AniketGhotale/LeetCode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/AniketGhotale/LeetCode/tree/master/0575-distribute-candies) |
+| [0643-maximum-average-subarray-i](https://github.com/AniketGhotale/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/AniketGhotale/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
@@ -863,6 +864,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketGhotale/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AniketGhotale/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Stack
