@@ -38,6 +38,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0238-product-of-array-except-self](https://github.com/AniketGhotale/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AniketGhotale/LeetCode/tree/master/0500-keyboard-row) |
@@ -290,6 +291,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
@@ -422,6 +424,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AniketGhotale/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AniketGhotale/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -581,6 +584,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AniketGhotale/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -952,6 +956,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/AniketGhotale/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -1129,6 +1134,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/AniketGhotale/LeetCode/tree/master/0506-relative-ranks) |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -1166,6 +1172,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Design
 |  |
@@ -1182,6 +1189,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AniketGhotale/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Breadth-First Search
 |  |
