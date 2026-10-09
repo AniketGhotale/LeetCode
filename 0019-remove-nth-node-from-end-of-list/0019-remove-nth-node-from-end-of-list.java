@@ -13,10 +13,8 @@ class Solution {
         if(head == null || head.next == null){
             return null;
         }
+        ListNode slow = head;
         ListNode fast = head;
-        ListNode prev = head;
-        ListNode delnode = head;
-
         for(int i=0; i<n; i++){
             fast = fast.next;
         }
@@ -25,17 +23,13 @@ class Solution {
             return head.next;
         }
 
-        while(fast != null){
-            prev = delnode;
-            delnode = delnode.next;
+        while(fast.next != null){
+            slow = slow.next;
             fast = fast.next;
         }
 
-        prev.next = delnode.next;
+        slow.next = slow.next.next;
         return head;
-
-
-
 
 
 
@@ -71,3 +65,43 @@ class Solution {
         // return head;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// if(head == null || head.next == null){
+//             return null;
+//         }
+//         ListNode fast = head;
+//         ListNode prev = head;
+//         ListNode delnode = head;
+
+//         for(int i=0; i<n; i++){
+//             fast = fast.next;
+//         }
+
+//         if(fast == null){
+//             return head.next;
+//         }
+
+//         while(fast != null){
+//             prev = delnode;
+//             delnode = delnode.next;
+//             fast = fast.next;
+//         }
+
+//         prev.next = delnode.next;
+//         return head;
