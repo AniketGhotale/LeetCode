@@ -1234,4 +1234,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
