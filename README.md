@@ -16,6 +16,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AniketGhotale/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AniketGhotale/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AniketGhotale/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AniketGhotale/LeetCode/tree/master/0075-sort-colors) |
@@ -422,6 +423,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AniketGhotale/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AniketGhotale/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AniketGhotale/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AniketGhotale/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -793,6 +795,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AniketGhotale/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AniketGhotale/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketGhotale/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
