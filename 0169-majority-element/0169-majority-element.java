@@ -11,8 +11,6 @@ class Solution {
             }else{
                 count--;
             }
-
-
         }
         return num;
     }
