@@ -535,6 +535,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AniketGhotale/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AniketGhotale/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AniketGhotale/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -776,6 +777,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0050-powx-n](https://github.com/AniketGhotale/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AniketGhotale/LeetCode/tree/master/0394-decode-string) |
 ## String Matching
 |  |
@@ -882,6 +884,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/AniketGhotale/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AniketGhotale/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AniketGhotale/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -1156,6 +1159,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0142-linked-list-cycle-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AniketGhotale/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
