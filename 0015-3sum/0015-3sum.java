@@ -2,45 +2,86 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         
         List<List<Integer>> list = new ArrayList<>();
-        int n= nums.length; 
+        int n = nums.length; 
 
         Arrays.sort(nums);
-        for(int i=0; i<n; i++){
-            if (i > 0 && nums[i] == nums[i - 1]) {
+
+        for(int i=0; i<n-2; i++){
+
+            if(i>0 && nums[i] == nums[i-1]){
                 continue;
             }
-            int res = 0-nums[i];
-            int la = i+1;
-            int r = n-1;
 
+            int left = i+1;
+            int right = n-1;
 
-            while(la < r){
-                int sum = nums[la] + nums[r];
-                if(sum < res){
-                    la++;
-                }else if(sum > res){
-                    r--;
+            while(left < right){
+                int sum = nums[i] + nums[left] + nums[right];
+                if(sum == 0){
+                    ArrayList<Integer> l =new ArrayList<>();
+                    l.add(nums[i]);
+                    l.add(nums[left]);
+                    l.add(nums[right]);
+                    list.add(l);
+
+                    left++;
+                    right--;
+
+                    while(left < right && nums[left] == nums[left-1]){
+                        left++;
+                    }
+
+                    while(left < right && nums[right] == nums[right+1]){
+                        right--;
+                    }
+                }else if(sum < 0){
+                    left++;
                 }else{
-                    ArrayList<Integer> l = new ArrayList<>();
-                        l.add(nums[i]);
-                        l.add(nums[la]);
-                        l.add(nums[r]);
-                        
-                        //if(!list.contains(l)){
-                            list.add(l);
-                        //}
-                    la++;
-                    r--;
-                    while (la < n && nums[la] == nums[la - 1]) {
-                        la++;
-                    }
-                    while (r > la && nums[r] == nums[r + 1]) {
-                        r--;
-                    }
+                    right--;
                 }
             }
         }
-        return list;
+
+           return list;
+        }
+
+}
+        // for(int i=0; i<n; i++){
+        //     if (i > 0 && nums[i] == nums[i - 1]) {
+        //         continue;
+        //     }
+        //     int res = 0-nums[i];
+        //     int la = i+1;
+        //     int r = n-1;
+
+
+        //     while(la < r){
+        //         int sum = nums[la] + nums[r];
+        //         if(sum < res){
+        //             la++;
+        //         }else if(sum > res){
+        //             r--;
+        //         }else{
+        //             ArrayList<Integer> l = new ArrayList<>();
+        //                 l.add(nums[i]);
+        //                 l.add(nums[la]);
+        //                 l.add(nums[r]);
+                        
+        //                 //if(!list.contains(l)){
+        //                     list.add(l);
+        //                 //}
+        //             la++;
+        //             r--;
+        //             while (la < n && nums[la] == nums[la - 1]) {
+        //                 la++;
+        //             }
+        //             while (r > la && nums[r] == nums[r + 1]) {
+        //                 r--;
+        //             }
+        //         }
+        //     }
+        //
+     
         // for(int i=0; i<n; i++){
         //     for(int j=i+1; j<n; j++){
         //         if( (i!= j) && ( (m1.containsKey(nums[i] + nums[j])) && m1.get(nums[i] + nums[j]) != i && (m1.get(nums[i] + nums[j]) != j) )){
@@ -93,5 +134,3 @@ class Solution {
         //     }
         // }
         
-     }
-}
