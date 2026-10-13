@@ -1,27 +1,26 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergesort(nums,0,nums.length-1);
-        return nums;
+       mergesort(nums,0,nums.length-1);
+       return nums;
     }
 
     void mergesort(int nums[], int left, int right){
         if(left >= right){
             return;
         }
-
         int mid = left + (right-left)/2;
-        mergesort(nums,left,mid);
-        mergesort(nums,mid+1,right);
 
-        merge(nums,left,mid,right);
+        mergesort(nums, left, mid);
+        mergesort(nums, mid+1, right);
+
+        merge(nums,left,mid,right);        
     }
 
-
     void merge(int nums[], int left, int mid, int right){
-        int temp[] = new int[right-left + 1];
-        int i = left;
+        int temp[] = new int[right-left+1];
+        int i=left;
         int j=mid+1;
-        int k = 0;
+        int k=0;
 
         while(i <= mid && j <= right){
             if(nums[i] <= nums[j]){
@@ -29,18 +28,100 @@ class Solution {
             }else{
                 temp[k++] = nums[j++];
             }
-        }
+        } 
 
-        while(i<= mid){
+        while(i <= mid){
             temp[k++] = nums[i++];
         }
 
-        while(j<= right){
+        while(j <= right){
             temp[k++] = nums[j++];
         }
 
-        for(int x=0; x<temp.length; x++){
+        for(int x = 0; x<temp.length; x++){
             nums[left + x] = temp[x];
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // void mergesort(int nums[], int left, int right){
+    //     if(left >= right){
+    //         return;
+    //     }
+
+    //     int mid = left + (right-left)/2;
+    //     mergesort(nums,left,mid);
+    //     mergesort(nums,mid+1,right);
+
+    //     merge(nums,left,mid,right);
+    // }
+
+
+    // void merge(int nums[], int left, int mid, int right){
+    //     int temp[] = new int[right-left + 1];
+    //     int i = left;
+    //     int j=mid+1;
+    //     int k = 0;
+
+    //     while(i <= mid && j <= right){
+    //         if(nums[i] <= nums[j]){
+    //             temp[k++] = nums[i++];
+    //         }else{
+    //             temp[k++] = nums[j++];
+    //         }
+    //     }
+
+    //     while(i<= mid){
+    //         temp[k++] = nums[i++];
+    //     }
+
+    //     while(j<= right){
+    //         temp[k++] = nums[j++];
+    //     }
+
+    //     for(int x=0; x<temp.length; x++){
+    //         nums[left + x] = temp[x];
+    //     }
+    // }
 }
