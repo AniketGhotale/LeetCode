@@ -55,6 +55,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0769-max-chunks-to-make-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0806-number-of-lines-to-write-string](https://github.com/AniketGhotale/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0845-longest-mountain-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AniketGhotale/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/AniketGhotale/LeetCode/tree/master/0888-fair-candy-swap) |
@@ -552,6 +553,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0633-sum-of-square-numbers](https://github.com/AniketGhotale/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/AniketGhotale/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/AniketGhotale/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/AniketGhotale/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -807,6 +809,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AniketGhotale/LeetCode/tree/master/0509-fibonacci-number) |
+| [0845-longest-mountain-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -1112,6 +1115,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1534-count-good-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AniketGhotale/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AniketGhotale/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
