@@ -50,6 +50,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0643-maximum-average-subarray-i](https://github.com/AniketGhotale/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/AniketGhotale/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/AniketGhotale/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AniketGhotale/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AniketGhotale/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -956,6 +957,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/AniketGhotale/LeetCode/tree/master/0661-image-smoother) |
+| [0695-max-area-of-island](https://github.com/AniketGhotale/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1225,6 +1227,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 | [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0695-max-area-of-island](https://github.com/AniketGhotale/LeetCode/tree/master/0695-max-area-of-island) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -1280,8 +1283,10 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AniketGhotale/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/AniketGhotale/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
