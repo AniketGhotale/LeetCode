@@ -33,6 +33,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AniketGhotale/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AniketGhotale/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/AniketGhotale/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/AniketGhotale/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -953,6 +954,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 | [0661-image-smoother](https://github.com/AniketGhotale/LeetCode/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/0867-transpose-matrix) |
@@ -1221,6 +1223,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 | [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 ## Bidirectional Search
 |  |
@@ -1273,4 +1276,12 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
