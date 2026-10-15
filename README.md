@@ -1266,6 +1266,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -1289,4 +1290,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0200-number-of-islands](https://github.com/AniketGhotale/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/AniketGhotale/LeetCode/tree/master/0695-max-area-of-island) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
