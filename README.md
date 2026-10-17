@@ -459,6 +459,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AniketGhotale/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/AniketGhotale/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/AniketGhotale/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AniketGhotale/LeetCode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AniketGhotale/LeetCode/tree/master/0509-fibonacci-number) |
@@ -682,6 +683,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0389-find-the-difference](https://github.com/AniketGhotale/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AniketGhotale/LeetCode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/AniketGhotale/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/AniketGhotale/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -1054,6 +1056,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | ------- |
 | [0067-add-binary](https://github.com/AniketGhotale/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AniketGhotale/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/AniketGhotale/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AniketGhotale/LeetCode/tree/master/0682-baseball-game) |
