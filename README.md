@@ -292,6 +292,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0049-group-anagrams](https://github.com/AniketGhotale/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/AniketGhotale/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AniketGhotale/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/AniketGhotale/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/AniketGhotale/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AniketGhotale/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -1187,6 +1188,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AniketGhotale/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AniketGhotale/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketGhotale/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AniketGhotale/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/AniketGhotale/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -1213,6 +1215,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AniketGhotale/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AniketGhotale/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AniketGhotale/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AniketGhotale/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -1301,4 +1304,8 @@ The purpose of this repository is to improve my problem-solving skills, strength
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AniketGhotale/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AniketGhotale/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
