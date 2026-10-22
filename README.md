@@ -530,6 +530,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3870-count-commas-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/AniketGhotale/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/AniketGhotale/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/AniketGhotale/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
@@ -794,6 +795,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3798-largest-even-number](https://github.com/AniketGhotale/LeetCode/tree/master/3798-largest-even-number) |
 | [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/AniketGhotale/LeetCode/tree/master/3856-trim-trailing-vowels) |
+| [3894-traffic-signal-color](https://github.com/AniketGhotale/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -1124,6 +1126,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3838-weighted-word-mapping](https://github.com/AniketGhotale/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/AniketGhotale/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AniketGhotale/LeetCode/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3894-traffic-signal-color](https://github.com/AniketGhotale/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/AniketGhotale/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting Sort
 |  |
