@@ -527,6 +527,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AniketGhotale/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AniketGhotale/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AniketGhotale/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AniketGhotale/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/AniketGhotale/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AniketGhotale/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AniketGhotale/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -826,6 +827,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0392-is-subsequence](https://github.com/AniketGhotale/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AniketGhotale/LeetCode/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/AniketGhotale/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/AniketGhotale/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Greedy
 |  |
 | ------- |
