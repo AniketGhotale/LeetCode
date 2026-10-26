@@ -73,6 +73,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0977-squares-of-a-sorted-array](https://github.com/AniketGhotale/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/AniketGhotale/LeetCode/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1002-find-common-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/AniketGhotale/LeetCode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/AniketGhotale/LeetCode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AniketGhotale/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/AniketGhotale/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -1188,6 +1189,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [0506-relative-ranks](https://github.com/AniketGhotale/LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AniketGhotale/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/AniketGhotale/LeetCode/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AniketGhotale/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AniketGhotale/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
