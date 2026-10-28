@@ -510,6 +510,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2769-find-the-maximum-achievable-number](https://github.com/AniketGhotale/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AniketGhotale/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2843-count-symmetric-integers](https://github.com/AniketGhotale/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [2864-maximum-odd-binary-number](https://github.com/AniketGhotale/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AniketGhotale/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/AniketGhotale/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/AniketGhotale/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -782,6 +783,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2810-faulty-keyboard](https://github.com/AniketGhotale/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/AniketGhotale/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AniketGhotale/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2864-maximum-odd-binary-number](https://github.com/AniketGhotale/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/AniketGhotale/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/AniketGhotale/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/AniketGhotale/LeetCode/tree/master/3110-score-of-a-string) |
@@ -856,6 +858,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [2389-longest-subsequence-with-limited-sum](https://github.com/AniketGhotale/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AniketGhotale/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/AniketGhotale/LeetCode/tree/master/2706-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/AniketGhotale/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2895-minimum-processing-time](https://github.com/AniketGhotale/LeetCode/tree/master/2895-minimum-processing-time) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/AniketGhotale/LeetCode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/AniketGhotale/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
