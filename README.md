@@ -903,6 +903,7 @@ The purpose of this repository is to improve my problem-solving skills, strength
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/AniketGhotale/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AniketGhotale/LeetCode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AniketGhotale/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/AniketGhotale/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1890-the-latest-login-in-2020](https://github.com/AniketGhotale/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/AniketGhotale/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AniketGhotale/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
